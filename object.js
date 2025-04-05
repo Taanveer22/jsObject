@@ -8,6 +8,8 @@ console.log(typeof bottleExpensive,typeof bottlePrice,typeof bottleBrand,typeof 
 
 
 // we can declare it simply one line via object
+// object is a non-primitive data type
+
 const bottle = {
     isExpensive : false,
     price : 50,
